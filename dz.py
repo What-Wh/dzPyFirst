@@ -114,6 +114,6 @@
 #
 # f1 = Flat(100, 100)
 # f2 = Flat(200, 200)
-# print(f1 == f2)d
+# print(f1 == f2)
 # print(f1 != f2)
 # print(f1 > f2)
